@@ -2,7 +2,7 @@
 
 # Variables pour la configuration de Postfix
 GMAIL_USERNAME="singlesolution192@gmail.com"
-GMAIL_PASSWORD="768yfazA{3P[H=" 
+GMAIL_PASSWORD="mot_de_passe" 
 
 # Installer Postfix et mailutils sendmail
 sudo apt-get install -y postfix mailutils
